@@ -4,7 +4,7 @@
 
 **Aspiring Full Stack Developer | D3 Information Technology Student @ Politeknik Negeri Jember**
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250">
+<img src="https://media.tenor.com/71239O52MHEAAAAi/bongo-cat-transparent.gif" width="200">
 
 **Aspiring Full Stack Developer | D3 Information Technology Student Politeknik Negeri Jember**
 
