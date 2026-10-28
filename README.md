@@ -49,13 +49,6 @@ Welcome to my GitHub! I'm a 3rd-semester Informatics Management student passiona
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <!-- Grafik Garis Aktivitas -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranggueeesssss&bg_color=1a1b27&color=7aa2f7&line=3e8fb0&point=f7768e&area=true&hide_border=true" width="100%" alt="Rangga's Activity Graph" />
-</div>
-
-<br>
-
-<div align="center">
   <!-- Kartu Streak (Rekor Coding) -->
   <img src="https://streak-stats.demolab.com?user=Ranggueeesssss&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
   <!-- Kartu Bahasa -->
