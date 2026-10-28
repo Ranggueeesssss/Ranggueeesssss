@@ -3,10 +3,8 @@
   
   <br><br>
 
-  **Aspiring Full Stack Developer | D3 Information Technology Student @ Politeknik Negeri Jember**
-
+  **Aspiring Full Stack Developer | D3 Information Technology Student Politeknik Negeri Jember**
   <br><br>
-
   <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGRxc2NzOTl4Z25hdWQ5bXh0aHI3dDhpbjNvM255cGM0Z3NvMGdrciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vRHKYJFbMNapxHnp6x/giphy.webp" width="600">
   
   <br><br>
