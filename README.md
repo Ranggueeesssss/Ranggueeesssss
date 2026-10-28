@@ -23,18 +23,6 @@ Welcome to my GitHub! I'm a 3rd-semester Informatics Management student passiona
 - 🧠 **Currently exploring:** Data Mining and Machine Learning algorithms like KNN & Naive Bayes.
 - 🤝 **Community:** Actively organizing events, leading project exhibitions (IMCE) in HIMANIKA.
 
----
-
-### 📌 Featured Projects
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **KMIPN VIII Product Innovation (SABAR)** 🏆 | `Laravel` `JavaScript` `MySQL` | Sistem inovasi produk berbasis web yang meraih **Juara 2 Kategori Inovasi Produk** pada ajang nasional KMIPN VIII 2026. |
-| **Web System Ponpes Al-Barokah An-Nur** 🕌 | `PHP` `MySQL` `Bootstrap` | Sistem informasi manajemen administrasi dan pendaftaran calon santri baru secara online berbasis web native. |
-| **GIS Spatial Data Visualization Jember** 🗺️ | `Laravel` `Leaflet.js` `MariaDB` | Web GIS untuk pemetaan, analisis, dan visualisasi data spasial tingkat kecamatan di Kabupaten Jember. |
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 **Languages**  
