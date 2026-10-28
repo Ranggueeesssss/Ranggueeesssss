@@ -45,9 +45,19 @@ Welcome to my GitHub! I'm a 3rd-semester Informatics Management student passiona
 ![SPSS](https://img.shields.io/badge/SPSS-CC0000?style=for-the-badge)
 
 ---
-### 📊 GitHub Analytics
+
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranggueeesssss&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Rangga's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranggueeesssss&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Rangga's Top Languages" />
+  <!-- Grafik Garis Aktivitas -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranggueeesssss&bg_color=1a1b27&color=7aa2f7&line=3e8fb0&point=f7768e&area=true&hide_border=true" width="100%" alt="Rangga's Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Kartu Streak (Rekor Coding) -->
+  <img src="https://streak-stats.demolab.com?user=Ranggueeesssss&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <!-- Kartu Bahasa -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranggueeesssss&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Rangga's Top Languages" />
 </div>
