@@ -14,7 +14,7 @@
   
   <br><br>
 </div>
-
+---
 Welcome to my GitHub! I'm a 3rd-semester Informatics Management student passionate about crafting clean code and solving complex problems creatively. I balance my academic journey with active campus leadership, constantly staying updated with the latest tech innovations. Ultimately, I am continuously building my skills to become a versatile Full Stack Developer and aspiring to be a University Lecturer. 
 
 - 🚀 **Currently building:** Further developing my project that won 2nd Place (Product Innovation) at KMIPN VIII 2026.
