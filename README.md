@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a 3rd-semester Informatics Management student passiona
 - 🧠 **Currently exploring:** Data Mining and Machine Learning algorithms like KNN & Naive Bayes.
 - 🤝 **Community:** Actively organizing events, leading project exhibitions (IMCE) in HIMANIKA.
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages**  
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -47,7 +47,7 @@ Welcome to my GitHub! I'm a 3rd-semester Informatics Management student passiona
 
 ---
 
-### 📊 GitHub Activity 
+### GitHub Activity 
 
 <div align="center">
   <!-- Kartu Streak (Rekor Coding) -->
