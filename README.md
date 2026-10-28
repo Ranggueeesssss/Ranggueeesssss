@@ -9,8 +9,8 @@
 
   <br><br>
 
-  <!-- GIF Anime Pilihan -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjlwdGJ6NmxmYTU5azBpcHdveXRzaDV6cWV3YWljZHk3d3gzcDhtYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/egWiLO8nE1A3u/200.webp" width="200">
+  <!-- GIF Anime Pilihan (Diperpanjang dan Diperbesar) -->
+  <img src="https://media1.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MjlwdGJ6NmxmYTU5azBpcHdveXRzaDV6cWV3YWljZHk3d3gzcDhtYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/egWiLO8nE1A3u/giphy.webp" width="700">
   
   <br><br>
 </div>
