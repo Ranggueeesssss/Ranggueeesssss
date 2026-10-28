@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a 3rd-semester Informatics Management student passiona
 - 🏆 **Milestone:** 2nd Place in the Product Innovation category at KMIPN VIII 2026
 - 🧠 **Currently exploring:** Data Mining and Machine Learning algorithms like KNN & Naive Bayes.
 - 🤝 **Community:** Actively organizing events, leading project exhibitions (IMCE) in HIMANIKA.
-- 📫 **Let's connect:** Reach out at ranggabagusandikadia@gmail.com
+
 ### 🛠️ Tech Stack & Tools
 
 **Languages**  
