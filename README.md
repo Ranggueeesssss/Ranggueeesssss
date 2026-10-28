@@ -1,17 +1,13 @@
 <div align="center">
-  <!-- Spanduk dengan Custom Image (Catatan: Animasi mungkin tidak berjalan) -->
-  <img src="https://capsule-render.vercel.app/api?type=custom&customColorList=1&height=250&section=header&text=Hello%20World!&fontSize=65&fontColor=ffffff&animation=fadeIn&customImageUrl=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndjYWF4cG9sOTFkNjVqZGZ1b24xcjB2NDNsMWloZm5uMDNhemkxYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cKL8JnaSDj6V2/giphy.webp" width="100%" alt="Header Banner" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&height=100&lines=Hello+World!;" alt="Typing SVG" />
+  </a>
   
+  <br>
+  **Aspiring Full Stack Developer | D3 Information Technology Student Politeknik Negeri Jember**
   <br><br>
 
-  <!-- Teks Gelar -->
-  **Aspiring Full Stack Developer | D3 Information Technology Student @ Politeknik Negeri Jember**
-
-  <br><br>
-
-  <!-- GIF Anime Mengetik -->
   <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGRxc2NzOTl4Z25hdWQ5bXh0aHI3dDhpbjNvM255cGM0Z3NvMGdrciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vRHKYJFbMNapxHnp6x/giphy.webp" width="600">
-  
   <br><br>
 </div>
 
