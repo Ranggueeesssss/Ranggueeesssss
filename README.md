@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+  <!-- Animasi Mengetik "Hello World!" -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&height=100&lines=Hello+World!+;System.out.println(%22Hi!%22);" alt="Typing SVG" />
+  </a>
   
   <br><br>
-
   **Aspiring Full Stack Developer | D3 Information Technology Student Politeknik Negeri Jember**
   <br><br>
   <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGRxc2NzOTl4Z25hdWQ5bXh0aHI3dDhpbjNvM255cGM0Z3NvMGdrciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vRHKYJFbMNapxHnp6x/giphy.webp" width="600">
