@@ -46,7 +46,7 @@ Welcome to my GitHub! I'm a 3rd-semester Informatics Management student passiona
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity 
 
 <div align="center">
   <!-- Kartu Streak (Rekor Coding) -->
