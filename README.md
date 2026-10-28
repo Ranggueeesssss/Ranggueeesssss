@@ -1,13 +1,14 @@
 <div align="center">
-  <!-- Dynamic Header Banner (Gaya Gelombang Berwarna) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20Rangga!&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+  <!-- Dynamic Header Banner (Gelombang, Warna Asli, Teks Hello World, dengan Sub-teks Gelar) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20D3%20IT%20Student%20@%20Politeknik%20Negeri%20Jember&descAlignY=55&descSize=15" width="100%" alt="Header Banner" />
   
-  <br>
+  <br><br>
 
-  <!-- GIF Kucing -->
+  <!-- GIF Kucing Pixel -->
   <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnluZm1ybmhmczJ4eDl3a3lwdzhlcW4zYm5sd2ljaTB4a3NidnNieSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j0P3JBo3Fr6Apmk3Ij/giphy.webp" width="200">
   
   <br><br>
+</div>
 
   **Aspiring Full Stack Developer | D3 Information Technology Student @ Politeknik Negeri Jember**
 </div>
