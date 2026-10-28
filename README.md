@@ -45,10 +45,9 @@ Welcome to my GitHub! I'm a 3rd-semester Informatics Management student passiona
 ![SPSS](https://img.shields.io/badge/SPSS-CC0000?style=for-the-badge)
 
 ---
-
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranggueeesssss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="Rangga's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ranggueeesssss&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Rangga's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranggueeesssss&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Rangga's Top Languages" />
 </div>
