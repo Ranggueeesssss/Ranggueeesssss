@@ -1,16 +1,18 @@
 <div align="center">
-  <!-- Dynamic Header Banner (Gelombang, Warna Asli, Teks Hello World, dengan Sub-teks Gelar) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20D3%20IT%20Student%20@%20Politeknik%20Negeri%20Jember&descAlignY=55&descSize=15" width="100%" alt="Header Banner" />
+  <!-- Dynamic Header Banner (Hanya Hello World!) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
   
   <br><br>
 
-  <!-- GIF Kucing Pixel -->
+  <!-- Teks Gelar (Di bawah header, di luar gambar) -->
+  **Aspiring Full Stack Developer | D3 Information Technology Student @ Politeknik Negeri Jember**
+
+  <br><br>
+
+  <!-- GIF Kucing Pixel (Di bawah teks gelar) -->
   <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnluZm1ybmhmczJ4eDl3a3lwdzhlcW4zYm5sd2ljaTB4a3NidnNieSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j0P3JBo3Fr6Apmk3Ij/giphy.webp" width="200">
   
   <br><br>
-</div>
-
-  **Aspiring Full Stack Developer | D3 Information Technology Student @ Politeknik Negeri Jember**
 </div>
 
 Welcome to my GitHub! I'm a 3rd-semester Informatics Management student passionate about crafting clean code and solving complex problems creatively. I balance my academic journey with active campus leadership, constantly staying updated with the latest tech innovations. Ultimately, I am continuously building my skills to become a versatile Full Stack Developer and aspiring to be a University Lecturer. 
