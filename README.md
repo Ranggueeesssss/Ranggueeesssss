@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=60&animation=fadeIn" width="100%" alt="Header Banner" />
+  <!-- Dynamic Header Banner dengan Gaya Baru -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=250&section=header&text=Hello,%20I'm%20Rangga!&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
   
   <br>
 
-  # Hi, I'm Rangga Bagus Andika! 👋
-
+  <!-- GIF Kucing -->
   <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnluZm1ybmhmczJ4eDl3a3lwdzhlcW4zYm5sd2ljaTB4a3NidnNieSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j0P3JBo3Fr6Apmk3Ij/giphy.webp" width="200">
   
   <br><br>
