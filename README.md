@@ -1,4 +1,12 @@
+<div align="center">
+  
 # Hi, I'm Rangga Bagus Andika! 👋
+
+**Aspiring Full Stack Developer | D3 Information Technology Student @ Politeknik Negeri Jember**
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250">
+
+</div>
 
 **Aspiring Full Stack Developer | D3 Information Technology Student Politeknik Negeri Jember**
 
