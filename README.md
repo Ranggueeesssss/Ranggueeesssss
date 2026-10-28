@@ -54,16 +54,6 @@ Welcome to my GitHub! I'm a 3rd-semester Informatics Management student passiona
 
 <br>
 
-**Tools & Environment**  
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" title="Git" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/white" height="40" title="GitHub" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" title="VS Code" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/xampp/FB7A24" height="40" title="XAMPP" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/spss/white" height="40" title="SPSS" />&nbsp;&nbsp;&nbsp;
-![Laragon](https://img.shields.io/badge/Laragon-00A9F4?style=flat-square&logo=laragon&logoColor=white)&nbsp;
-![Antigravity](https://img.shields.io/badge/Antigravity_IDE-333333?style=flat-square)
-
 ---
 
 ### GitHub Activity 
