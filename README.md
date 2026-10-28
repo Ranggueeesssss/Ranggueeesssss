@@ -35,15 +35,6 @@ Welcome to my GitHub! I'm a 3rd-semester Informatics Management student passiona
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-**Tools & Environment**  
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-00A9F4?style=for-the-badge)
-![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-333333?style=for-the-badge)
-![SPSS](https://img.shields.io/badge/SPSS-CC0000?style=for-the-badge)
-
 ---
 
 ### 📊 GitHub Activity 
