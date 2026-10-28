@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Dynamic Header Banner dengan Gaya Baru -->
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=7aa2f7&height=250&section=header&text=Hello,%20I'm%20Rangga!&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+  <!-- Dynamic Header Banner (Gaya Gelombang Berwarna) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20Rangga!&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
   
   <br>
 
