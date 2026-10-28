@@ -1,11 +1,15 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=60&animation=fadeIn" width="100%" alt="Header Banner" />
   
-# Hi, I'm Rangga Bagus Andika! 👋
+  <br>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnluZm1ybmhmczJ4eDl3a3lwdzhlcW4zYm5sd2ljaTB4a3NidnNieSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j0P3JBo3Fr6Apmk3Ij/giphy.webp" width="250">
+  # Hi, I'm Rangga Bagus Andika! 👋
 
-**Aspiring Full Stack Developer | D3 Information Technology Student @ Politeknik Negeri Jember**
+  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnluZm1ybmhmczJ4eDl3a3lwdzhlcW4zYm5sd2ljaTB4a3NidnNieSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j0P3JBo3Fr6Apmk3Ij/giphy.webp" width="200">
+  
+  <br><br>
 
+  **Aspiring Full Stack Developer | D3 Information Technology Student @ Politeknik Negeri Jember**
 </div>
 
 Welcome to my GitHub! I'm a 3rd-semester Informatics Management student passionate about crafting clean code and solving complex problems creatively. I balance my academic journey with active campus leadership, constantly staying updated with the latest tech innovations. Ultimately, I am continuously building my skills to become a versatile Full Stack Developer and aspiring to be a University Lecturer. 
