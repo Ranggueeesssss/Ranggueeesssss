@@ -4,8 +4,7 @@
 
 **Aspiring Full Stack Developer | D3 Information Technology Student @ Politeknik Negeri Jember**
 
-<!-- Opsi GIF Kucing Pixel Art (Bisa diganti URL-nya jika ingin model lain) -->
-<img src="https://media.tenor.com/71239O52MHEAAAAi/bongo-cat-transparent.gif" width="200">
+<img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnluZm1ybmhmczJ4eDl3a3lwdzhlcW4zYm5sd2ljaTB4a3NidnNieSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j0P3JBo3Fr6Apmk3Ij/giphy.webp" width="250">
 
 </div>
 
