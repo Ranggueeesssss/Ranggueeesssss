@@ -1,12 +1,14 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&height=100&lines=Hello+World!;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&height=80&lines=Hello+World!;" alt="Hello World" />
+  </a>
+  
+  <br>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&height=40&lines=Aspiring+Full+Stack+Developer+%7C+D3+IT+Student+%40+Politeknik+Negeri+Jember;" alt="Subtitle" />
   </a>
 
-  <br>
-  
-  **Aspiring Full Stack Developer | D3 Information Technology Student Politeknik Negeri Jember**
-  
   <br><br>
 
   <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGRxc2NzOTl4Z25hdWQ5bXh0aHI3dDhpbjNvM255cGM0Z3NvMGdrciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vRHKYJFbMNapxHnp6x/giphy.webp" width="600">
