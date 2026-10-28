@@ -1,15 +1,12 @@
 <div align="center">
-  <!-- Dynamic Header Banner (Hanya Hello World!) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
   
   <br><br>
 
-  <!-- Teks Gelar (Di bawah header, di luar gambar) -->
   **Aspiring Full Stack Developer | D3 Information Technology Student @ Politeknik Negeri Jember**
 
   <br><br>
 
-  <!-- GIF Anime Pilihan Baru (Sedikit Dikecilkan) -->
   <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGRxc2NzOTl4Z25hdWQ5bXh0aHI3dDhpbjNvM255cGM0Z3NvMGdrciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vRHKYJFbMNapxHnp6x/giphy.webp" width="600">
   
   <br><br>
